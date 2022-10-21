@@ -5,3 +5,4 @@
 - Have fun while playing more games coming soon
 ---
 > Developed by : [Kuldeep Sharma](https://github.com/SoleCodr)
+> Version : 1.0
